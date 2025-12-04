@@ -9,7 +9,8 @@
 ##  1. Màn hình Intro
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54dacd04-35f1-4d38-b487-3c7a61bc857f" width="320"/>
+<img width="847" height="1432" alt="image" src="https://github.com/user-attachments/assets/05eacc30-59dd-4007-845b-c3b38f266b5a" />
+
 </p>
 
 ---
@@ -17,7 +18,8 @@
 ##  2. Màn hình Login
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92563283-91c5-46b8-bbdb-51254cc864a4" width="300"/>
+<img width="844" height="1441" alt="image" src="https://github.com/user-attachments/assets/389df258-d08c-4f4b-9d80-234228324272" />
+
 </p>
 
 ---
@@ -25,7 +27,8 @@
 ##  3. Màn hình Register
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0f7fee3f-8247-47b5-b275-0346d643a1e7" width="300"/>
+<img width="844" height="1441" alt="image" src="https://github.com/user-attachments/assets/b36dc291-0b4d-4947-809a-a1f02d65af28" />
+
 </p>
 
 ---
@@ -33,7 +36,8 @@
 ##  4. Trang Chủ (Main Screen)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0915c8a-bf37-47d2-b958-2258a678a425" width="700"/>
+<img width="847" height="1436" alt="image" src="https://github.com/user-attachments/assets/fbb8272d-d5e7-4b2e-8012-442b00508b40" />
+
 </p>
 
 ---
@@ -41,7 +45,8 @@
 ##  5. Danh Mục Món Ăn (Categories – LazyRow)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14dd2842-e1d5-40b5-bc87-a4f669725946" width="700"/>
+ <img width="850" height="442" alt="image" src="https://github.com/user-attachments/assets/633a66a0-1a16-4677-953d-da3a7d5d4011" />
+
 </p>
 
 ---
@@ -49,6 +54,7 @@
 ##  6. Danh Sách Món Ăn Theo Danh Mục (Grid + Lazy Loading)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96a52988-fd88-4564-bb0f-078717a85571" width="700"/>
+<img width="845" height="1443" alt="image" src="https://github.com/user-attachments/assets/b5135c12-aa69-43ee-8c0e-0b40ac89e5f9" />
+
 </p>
 
